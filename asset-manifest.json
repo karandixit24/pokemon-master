@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pokemon-master/static/css/main.ceb38e6f.chunk.css",
+    "main.js": "/pokemon-master/static/js/main.429c6d5e.chunk.js",
+    "main.js.map": "/pokemon-master/static/js/main.429c6d5e.chunk.js.map",
+    "runtime-main.js": "/pokemon-master/static/js/runtime-main.5598ec8a.js",
+    "runtime-main.js.map": "/pokemon-master/static/js/runtime-main.5598ec8a.js.map",
+    "static/js/2.a6979d77.chunk.js": "/pokemon-master/static/js/2.a6979d77.chunk.js",
+    "static/js/2.a6979d77.chunk.js.map": "/pokemon-master/static/js/2.a6979d77.chunk.js.map",
+    "index.html": "/pokemon-master/index.html",
+    "static/css/main.ceb38e6f.chunk.css.map": "/pokemon-master/static/css/main.ceb38e6f.chunk.css.map",
+    "static/js/2.a6979d77.chunk.js.LICENSE.txt": "/pokemon-master/static/js/2.a6979d77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5598ec8a.js",
+    "static/js/2.a6979d77.chunk.js",
+    "static/css/main.ceb38e6f.chunk.css",
+    "static/js/main.429c6d5e.chunk.js"
+  ]
+}
